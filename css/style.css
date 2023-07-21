@@ -1,0 +1,79 @@
+
+.navbar, .dropdown-menu, .dropdown-item{
+    background-color: #263D40!important;  
+}
+
+.navbar a{
+    color: #FFF!important;
+}
+
+.dropdown-item:hover{
+    background-color: #365959!important;
+}
+
+.card{
+    /*background-color: transparent!important;*/
+    border: none
+}
+
+.card img{
+    height: 25rem;
+}
+
+.btn-alugar{
+    background-color: #93BFB7;
+    font-weight: bold;
+}
+
+.btn-alugar:hover{
+    background-color: #365959;
+    color: #FFF;
+}
+
+.titulos-h2{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.preco{
+    font-weight: bold;
+   
+}
+
+.card-categorias img{
+    height: 146px;
+}
+
+.card{
+    padding:5px
+}
+
+.card:hover{
+    top: -5px;
+    box-shadow: 1px 1px 10px rgb(41, 41, 41)
+}
+
+footer{
+    background-color: #9FB0BF;
+    font-weight: bold;
+    color: rgb(41,41,41);    
+    height: 3rem;  
+     
+}
+
+.logos-contato img{
+    width: 8rem;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+form{
+    padding: 10px
+}
+
+.uti{
+    
+    display: block;
+    margin: auto;
+}
+
